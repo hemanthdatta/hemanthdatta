@@ -15,7 +15,6 @@ I’m an Engineering Physics undergraduate at IIT Madras building **production-g
 * Multimodal AI systems
 * Scalable full-stack AI applications
 
-Currently working as an **AI/ML Engineer (Contract)**, designing intelligent systems for complex document understanding and reasoning. 
 
 ---
 
