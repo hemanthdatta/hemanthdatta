@@ -1,6 +1,6 @@
 ---
 
-# Nakka Hemanth Datta
+# Hem.nn
 
 AI/ML Engineer | RAG Systems | LLM Applications | Full-Stack AI
 
