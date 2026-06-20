@@ -8,7 +8,7 @@ AI/ML Engineer | RAG Systems | LLM Applications | Full-Stack AI
 
 ## About Me
 
-I’m an Engineering Physics undergraduate at IIT Madras building **production-grade AI systems**, with a focus on:
+I’m an Engineering Physics Major and Artificial Intelligence Minor at IIT Madras building **production-grade AI systems**, with a focus on:
 
 * Retrieval-Augmented Generation (RAG)
 * LLM fine-tuning and evaluation
